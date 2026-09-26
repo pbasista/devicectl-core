@@ -1,0 +1,13 @@
+NOTICE
+======
+
+This project is licensed under the European Union Public Licence v1.2
+(EUPL-1.2) -- see LICENSE. One file shipped in this distribution is not
+covered by that license and remains under its own terms:
+
+* ``src/devicectl/web/static/vendor/preact-htm.module.js`` -- Preact and
+  htm, bundled as one ES module. Copyright Jason Miller and contributors,
+  MIT License; the full notice is embedded as a comment at the top of the
+  file. Upstream: https://preactjs.com/ and https://github.com/developit/htm
+
+Everything else in this distribution is licensed under the EUPL-1.2.
